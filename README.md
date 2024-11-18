@@ -60,7 +60,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ![Foto del GOAT](https://github.com/enricvenanci/ASIX1-AprendizajeMarkdown/blob/main/messi.jpg "Messi")
 
 | Titulo 1 | Titulo 2 | Titulo 3 |
-|----------------------|----------------------------:|:----------------------------------------:|
+|:----------------------:|:----------------------------:|:----------------------------------------:|
 |SMX2|curso2324|200$|
 |**ASIX1**|curso 2425|33|
 |DAW2|curso2425|32|
