@@ -62,34 +62,24 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 | Titulo 1 | Titulo 2 | Titulo 3 |
 |:----------------------:|:----------------------------:|:----------------------------------------:|
 |SMX2|curso2324|200$|
-|**ASIX1**|curso 2425|33|
+|**ASIX1**|curso2425|33|
 |DAW2|curso2425|32|
 
 
+## **_HTML_**
 
+### Estructura básica de un fichero HTML
 
-
-
-
-
-## INTRODUCCION A HTML 
- 
-#### HyperText: texto que enlaza con otros contenidos
-#### Markup: todas las páginas web están construidas en base a etiquetas
-#### Language: HTML es un lenguaje, no quiere decir que sea de programación, ya que no tiene estructuras de lenguaje de programación
-#### La etiqueta de apertura
-#### La etiqueta de cierre
-#### El contenido
-#### El elemento
-
-### Estructura:
-#### <!DOCTYPE html>
-#### <html>
-####  <head>
-####   <meta charset="utf-8">
-####   <title>Mi página de prueba </title>
-####   <link rel="icon" href="favicon.png">
-####  </head>
-####  <body>
-####   <img scr="images/firefox-icon.png" alt="Mi imagen de prueba">
-#### </html>
+´´´
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+´´´
