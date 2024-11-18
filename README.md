@@ -70,7 +70,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ### Estructura básica de un fichero HTML
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,4 +82,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
     
 </body>
 </html>
-´´´
+```
