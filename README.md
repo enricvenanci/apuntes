@@ -69,6 +69,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ## **_HTML_**
 
 ### Estructura básica de un fichero HTML
+#### Esta estructura se escribe sola si en el fichero HTML ponemos "html: 5"
 
 ```
 <!DOCTYPE html>
@@ -83,3 +84,11 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 </body>
 </html>
 ```
+
+#### <meta></meta> Añade la metainformación a la página, se pueden añadir varias de estas ya que dan información no visible del documento
+#### El título de la página se pone entre <title></title>, y es el nombre que aparece en el buscador.
+#### Para añadir un icono en la página hay que usar la etiqueta <link rel="icon">, este icono se llama favicon y es el que aparece junto al título, este es de 16x16 píxeles.
+#### <head> es donde pondremos información de la página
+#### Dentro de <body> es donde ira todo el código de la página para hacer nuestra página.
+
+#### Para crear una lista debemos usar la etiqueta <li></li> y si la queremos ordenada por puntos debemos poner <ul></ul> dentro de esta, aunque si queremos que esté ordenada por números debemus usar el <ol></ol>.
