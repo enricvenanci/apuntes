@@ -89,6 +89,9 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 #### El título de la página se pone entre title, y es el nombre que aparece en el buscador.
 #### Para añadir un icono en la página hay que usar la etiqueta link rel="icon", este icono se llama favicon y es el que aparece junto al título, este es de 16x16 píxeles.
 #### head es donde pondremos información de la página
-#### Dentro de <body> es donde ira todo el código de la página para hacer nuestra página.
+#### Dentro de body es donde ira todo el código de la página para hacer nuestra página.
 
 #### Para crear una lista debemos usar la etiqueta li y si la queremos ordenada por puntos debemos poner ul dentro de esta, aunque si queremos que esté ordenada por números debemos usar el ol.
+#### Si queremos poner parrafos debemos usar la etiqueta p al principio y final del texto que queremos que este separado.
+#### La etiqueta que hay que usar para crear un hipervínculo es a href="enlace".
+#### Si lo que queremos es añadir una foto tenemos que etiquetarla así: img scr="ubicación de la foto" alt="nombre de la foto"
